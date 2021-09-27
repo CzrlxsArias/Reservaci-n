@@ -1,0 +1,14 @@
+body{
+    background-color: #b8b8b8;
+    color: #000;}
+.formulario{
+    background: #575d62;
+    margin:80px;
+    padding: 30px;
+    border-radius: 50px;}
+footer{
+    margin-top:80px;
+    width: 100%;
+    text-align: center;
+    background-color:#575d62;
+    border-radius: 50px;}
